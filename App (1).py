@@ -62,7 +62,6 @@ st.set_page_config(page_title="Movie Recommender System")
 
 def run():
     st.title(" karan kumar")
-    # img1 = Image.open('meta/karan.jpg')
     img1 = Image.open('meta/logo.jpg')
     img1 = img1.resize((250, 250))
     st.image(img1, use_column_width=False)
