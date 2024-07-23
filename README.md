@@ -7,8 +7,8 @@
 <!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/yt_thumb.jpg"> -->
 
 ## Source
-- [IMDB Movie 5000 Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
-- Inspired from this [original repository](https://github.com/ppai22/knn_movie_recommender).
+- [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
+- Inspired from this [original repository](https://github.com/mrkarankumar/ham).
 
 ## Features
 - Simple responsive UI
@@ -38,13 +38,13 @@
 ## Screenshots
 
 ### Movie based Recommendation
-<img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t1.png">
+<!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t1.png"> -->
 
 ### Genre based Recommendation
-<img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t2.png">
+<!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t2.png"> -->
 
 
 ## Just follow☝️ me and Star⭐ my repository 
 
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
+<!-- # [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20) -->
+<!-- ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820) -->
