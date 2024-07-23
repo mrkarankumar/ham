@@ -3,12 +3,12 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/fPVXDur94dY)
-<img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/yt_thumb.jpg">
+<!-- ## [Watch Tutorial for this project](https://youtu.be/fPVXDur94dY) -->
+<!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/yt_thumb.jpg"> -->
 
 ## Source
-- [IMDB Movie 5000 Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
-- Inspired from this [original repository](https://github.com/ppai22/knn_movie_recommender).
+- [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
+- Inspired from this [original repository](https://github.com/mrkarankumar/ham).
 
 ## Features
 - Simple responsive UI
