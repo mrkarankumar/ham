@@ -7,7 +7,7 @@
 <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/yt_thumb.jpg">
 
 ## Source
-- [IMDB Movie 5000 Dataset](https://www.kaggle.com/karankuma)
+- [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
 - Inspired from this [original repository](https://github.com/mrkarankumar/ham/edit/main/README.md).
 
 ## Features
