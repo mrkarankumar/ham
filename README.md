@@ -35,12 +35,12 @@
 ## Screenshots
 
 ### Movie based Recommendation
-<!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t1.png"> -->
+<img src="https://github.com/mrkarankumar/ham/blob/main/amin.png">
 
 ### Genre based Recommendation
 <img src="https://github.com/mrkarankumar/ham/blob/main/karan.jpg.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
-
+## my name is karan kumar chaudhary 
 
