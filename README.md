@@ -8,7 +8,7 @@
 
 ## Source
 - [IMDB Movie 5000 Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
-- Inspired from this [original repository](https://github.com/ppai22/knn_movie_recommender).
+- Inspired from this [original repository](https://github.com/mrkarankumar/ham/edit/main/README.md).
 
 ## Features
 - Simple responsive UI
