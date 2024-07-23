@@ -5,7 +5,7 @@
 
 ## Source
 - [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
-- Inspired from this [original repository](https://github.com/mrkarankumar/ham).
+- Inspired from this [original repository](https://github.com/mrkarankumar/movies-recommendation-system).
 
 ## Features
 - Simple responsive UI
@@ -35,10 +35,10 @@
 ## Screenshots
 
 ### Movie based Recommendation
-<img src="https://github.com/mrkarankumar/ham/blob/main/amin.png">
+<img src="https://github.com/mrkarankumar/movies-recommendation-system/blob/main/amin.png">
 
 ### Genre based Recommendation
-<img src="https://github.com/mrkarankumar/ham/blob/main/karan.jpg.png">
+<img src="https://github.com/mrkarankumar/movies-recommendation-system/blob/main/karan.jpg.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
