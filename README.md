@@ -3,9 +3,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-<!-- ## [Watch Tutorial for this project](https://youtu.be/fPVXDur94dY) -->
-<!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/yt_thumb.jpg"> -->
-
 ## Source
 - [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
 - Inspired from this [original repository](https://github.com/mrkarankumar/ham).
@@ -46,5 +43,4 @@
 
 ## Just follow☝️ me and Star⭐ my repository 
 
-<!-- # [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20) -->
-<!-- ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820) -->
+
