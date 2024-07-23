@@ -7,8 +7,8 @@
 <!-- <img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/yt_thumb.jpg"> -->
 
 ## Source
-- [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
-- Inspired from this [original repository](https://github.com/mrkarankumar/ham).
+- [IMDB Movie 5000 Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+- Inspired from this [original repository](https://github.com/ppai22/knn_movie_recommender).
 
 ## Features
 - Simple responsive UI
