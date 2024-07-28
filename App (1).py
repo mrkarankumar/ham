@@ -8,8 +8,6 @@ import PIL.Image
 from urllib.request import urlopen
 
 # Load data
-with open('./Data/movie_data.json', 'r+', encoding='utf-8') as f:
-    data = json.load(f)
 with open('./Data/movie_titles.json', 'r+', encoding='utf-8') as f:
     movie_titles = json.load(f)
 
