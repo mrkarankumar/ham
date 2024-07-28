@@ -5,7 +5,7 @@
 
 ## Source
 - [IMDB Movie 5000 Dataset](https://www.kaggle.com/work/datasets)
-
+- Inspired from this [original repository](https://github.com/mrkarankumar/movies-recommendation-system).
 
 
 ## Features
